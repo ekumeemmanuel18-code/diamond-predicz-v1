@@ -1,0 +1,7 @@
+# Starter configuration. Final values depend on the OpenNext Cloudflare build.
+name = "diamond-predicz"
+compatibility_date = "2025-03-01"
+compatibility_flags = ["nodejs_compat"]
+
+# Follow the current OpenNext for Cloudflare adapter instructions to generate
+# the worker entry and assets directory before deploying.
